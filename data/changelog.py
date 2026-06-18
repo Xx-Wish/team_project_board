@@ -1,7 +1,4 @@
 CHANGELOG = [
-    "v0.1 初始化 PySide6 项目结构 main",
-    "v0.2 完成A角任务 PR 已合并",
-    "v0.3 完成B角任务 PR 已合并",
-    "v0.4 完成C角任务 PR 已合并",
-    "v0.5 完成D角任务 PR 待审核",
+    "v0.1 组长创建 PySide6 初始项目",
+    "v0.2 等待组员通过 Fork + Pull Request 补充内容",
 ]
