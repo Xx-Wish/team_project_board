@@ -1,6 +1,6 @@
 PROGRESS_ITEMS = [
-    {"issue": "#1", "owner": "A", "title": "项目信息", "status": "PR 已合并"},
-    {"issue": "#2", "owner": "B", "title": "成员信息", "status": "PR 已合并"},
-    {"issue": "#3", "owner": "C", "title": "功能特性", "status": "PR 已合并"},
-    {"issue": "#4", "owner": "D", "title": "进度记录", "status": "PR 待审核"},
+    {"issue": "#1", "owner": "组员 A", "title": "更新项目名称和口号", "status": "待提交 PR"},
+    {"issue": "#2", "owner": "组员 B", "title": "补全成员与分工", "status": "待提交 PR"},
+    {"issue": "#3", "owner": "组员 C", "title": "补充功能清单", "status": "待提交 PR"},
+    {"issue": "#4", "owner": "组员 D", "title": "补充协作进度和日志", "status": "待提交 PR"},
 ]
